@@ -1,0 +1,9 @@
+a = 100
+b = 200
+c = 200
+print(a != b)
+print(a != c)
+print(c != b)
+d = "dog"
+e = "egg"
+print(d != e)
